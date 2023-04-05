@@ -1,5 +1,8 @@
 ## Olá Eu sou a Isabela M. Ribeiro 👋
 
+Sou uma dev formada em Análise e Desenvolvimento de Sistemas, a 2 anos na área de desenvolvimento front-end e desde então venho construindo minha jornada para me tornar uma referência na área
+
+
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=disabela-maria20&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/disabela-maria20/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=disabela-maria20&layout=compact&theme=tokyonight)](https://github.com/disabela-maria20/github-readme-stats)
 
