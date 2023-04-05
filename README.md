@@ -1,10 +1,7 @@
 ## Olá Eu sou a Isabela M. Ribeiro 👋
 
-Sou uma dev formada em Análise e Desenvolvimento de Sistemas, a 2 anos na área de desenvolvimento front-end e desde então venho construindo minha jornada para me tornar uma referência na área
-
-
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=disabela-maria20&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/disabela-maria20/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=disabela-maria20&layout=compact&theme=tokyonight)](https://github.com/disabela-maria20/github-readme-stats)
+<!-- [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=disabela-maria20&layout=compact&theme=tokyonight)](https://github.com/disabela-maria20/github-readme-stats) -->
 
 ## Tecnologias que utilizo no meu dia a dia 
 
@@ -14,7 +11,7 @@ Sou uma dev formada em Análise e Desenvolvimento de Sistemas, a 2 anos na área
   <img align="center" alt="Javascript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="typescript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
   <img align="center" alt="React" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img align="center" alt="Php" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+  <!-- <img align="center" alt="Php" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/> -->
   <img align="center" alt="tailwindcss" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
   <img align="center" alt="sass" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
   <img align="center" alt="bootstrap" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> 
