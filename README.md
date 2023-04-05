@@ -1,9 +1,37 @@
-## Olá Eu sou a Isabela M. Ribeiro 👋
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=disabela-maria20&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/disabela-maria20/github-readme-stats#gh-dark-mode-only)
-<!-- [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=disabela-maria20&layout=compact&theme=tokyonight)](https://github.com/disabela-maria20/github-readme-stats) -->
+<!--![](https://github.com/imKashyap/imKashyap/blob/master/banner.png)-->
+<p align="center"> <h1 align="center">Olá, eu sou a Isabela M. <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /></h1> </p>
+<p align="center">
+<a href="https://www.linkedin.com/in/isabela-maria-ribeiro"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="https://www.instagram.com/isabela10015"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+<a href="mailto:isabela10014@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+</p>
 
-## Tecnologias que utilizo no meu dia a dia 
+
+* Formada em Análise e Desenvolvimento de Sistemas
+* Eu sou desenvolvedora front-end.
+* E minhas skills React, Next, typescript..
+* Tive a oportunidade de trabalhar com diversas tecnologias de desenvolvimento, como SASS, Typescript, Figma, Wordpress, bootstrap, tailwindcss, etc..
+
+***
+
+**⚙️ &nbsp;GitHub Analytics**
+
+<table style="width:100%">
+  <tr>
+    <td> <img src="https://github-readme-stats.vercel.app/api?username=disabela-maria20&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="disabela-maria20" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=disabela-maria20&theme=tokyonight&hide_border=true&layout=compact"></td>
+  </tr>
+</table>
+
+
+***
+
+**🛠 &nbsp;Tech Stack**
+
 
 <div style="display: inline_block"> <br/> 
   <img align="center" alt="HTML5" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
@@ -17,9 +45,9 @@
   <img align="center" alt="bootstrap" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> 
   <img align="center" alt="Next" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"/>
 </div>
+<br/> 
+<div align="center">
 
-##
+### Seja bem vindo ao meu Repositório ❤️ 
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabela-maria-ribeiro/)
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isabela10015/)
-[![Blog](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/isabela.maria.14/)
+</div>
