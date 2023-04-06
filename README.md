@@ -20,15 +20,8 @@
 
 **⚙️ &nbsp;GitHub Analytics**
 
-<table style="width:100%">
-  <tr>
-    <td>
- [![disabela-maria20 github stats](https://github-readme-stats.vercel.app/api?username=disabela-maria20&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</td>
-    <td>  [![disabela-maria20's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=disabela-maria20&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)</td>
-  </tr>
-</table>
-
+[![disabela-maria20 github stats](https://github-readme-stats.vercel.app/api?username=disabela-maria20&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![disabela-maria20's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=disabela-maria20&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ***
 
