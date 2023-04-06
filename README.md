@@ -22,8 +22,10 @@
 
 <table style="width:100%">
   <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api?username=disabela-maria20&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="disabela-maria20" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=disabela-maria20&theme=tokyonight&hide_border=true&layout=compact"></td>
+    <td>
+ [![disabela-maria20 github stats](https://github-readme-stats.vercel.app/api?username=disabela-maria20&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</td>
+    <td>  [![disabela-maria20's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=disabela-maria20&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)</td>
   </tr>
 </table>
 
